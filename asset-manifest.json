@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ticket-dashboard/src/static/css/main.41ab5eb1.css",
-    "main.js": "/ticket-dashboard/src/static/js/main.728612bb.js",
-    "static/js/453.64faf10c.chunk.js": "/ticket-dashboard/src/static/js/453.64faf10c.chunk.js",
-    "index.html": "/ticket-dashboard/src/index.html",
-    "main.41ab5eb1.css.map": "/ticket-dashboard/src/static/css/main.41ab5eb1.css.map",
-    "main.728612bb.js.map": "/ticket-dashboard/src/static/js/main.728612bb.js.map",
-    "453.64faf10c.chunk.js.map": "/ticket-dashboard/src/static/js/453.64faf10c.chunk.js.map"
+    "main.css": "/ticket-dashboard/public/static/css/main.41ab5eb1.css",
+    "main.js": "/ticket-dashboard/public/static/js/main.b5d3a6af.js",
+    "static/js/453.64faf10c.chunk.js": "/ticket-dashboard/public/static/js/453.64faf10c.chunk.js",
+    "index.html": "/ticket-dashboard/public/index.html",
+    "main.41ab5eb1.css.map": "/ticket-dashboard/public/static/css/main.41ab5eb1.css.map",
+    "main.b5d3a6af.js.map": "/ticket-dashboard/public/static/js/main.b5d3a6af.js.map",
+    "453.64faf10c.chunk.js.map": "/ticket-dashboard/public/static/js/453.64faf10c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41ab5eb1.css",
-    "static/js/main.728612bb.js"
+    "static/js/main.b5d3a6af.js"
   ]
 }
